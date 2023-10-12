@@ -15,3 +15,20 @@ ul{
     padding: 0 15px;
     margin: 0 auto ;
 }
+.header{
+    height: 100vh;
+    background: black;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-logo{
+    display: flex;
+    column-gap: 30px;
+}
+.nav-link{
+    display: flex;
+    column-gap: 30px;
+}
