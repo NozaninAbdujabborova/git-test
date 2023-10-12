@@ -23,12 +23,18 @@ ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 10px 0;
 }
 .nav-logo{
+    column-gap: 40px;
+    color: #fff;
+    font-weight: 700;
+}
+.nav-list{
     display: flex;
     column-gap: 30px;
 }
 .nav-link{
-    display: flex;
+    color: #fff;
     column-gap: 30px;
 }
